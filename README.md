@@ -32,11 +32,11 @@ We preprocess this data and train a **Decision Tree Classifier** to predict if t
 
 student-performance-predictor/
 ├── data/
-│ └── student-por.csv # original dataset
+│ └── student-por.csv 
 ├── images/
-│ └── accuracy_plot.png # optional accuracy graph
-├── student_performance.ipynb # Jupyter notebook (main analysis)
-└── README.md # This file
+│ └── accuracy_plot.png 
+├── student_performance.ipynb 
+└── README.md
 
 
 ---
